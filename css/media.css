@@ -1,0 +1,669 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	 /* header start */
+     .nav-cus {
+    padding: 5px 5px 5px;
+
+}
+    .menu ul li a{
+        text-align: right;
+        padding:0 0px;
+}
+/* btn start*/
+.btn-p{
+    text-align: right;
+    padding-left:0px ;
+
+}
+.btn-cus {
+    font-size: 12px !important;
+    padding: 8px 20px;
+}
+
+/* btn end*/
+    /* header end */
+
+    /* banner start */
+    /* banner text start */
+    .bt-img{ 
+    width: 100%;
+    }
+    .bt-img h4 {
+        font-size: 15px;
+    }
+
+    .b-text h1 {
+
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    }
+    .b-text p {
+    line-height: 20px;
+    padding: 5px 0 0;
+    text-align: center;
+    }
+    .b-btn{
+     text-align: center;
+    }
+    .b-btn {
+    text-align: center;
+    }
+    .b-text a {
+    display: block;
+    margin-left:0px;
+    margin-top: 10px;
+    }
+    /* banner text end */
+    /* banner img start */
+    .b-img {
+        margin-left: 30px;
+        width: 80%;
+    }
+    /* banner img end */
+    /* banner end */
+
+    /* companie start */
+    .companie {
+        padding: 30px 0 25px;
+    }
+    .c-margin{
+    margin-top: 20px;
+    }
+
+    /* companie end */
+
+    /* features start */
+    .features{
+    padding: 30px 0 25px;
+    }
+    .f-img{
+        margin-top:0px;
+    }
+    .f-headtext{
+        text-align: center;
+    }
+    .f-headtext h1{
+        font-size: 26px;
+        padding-bottom: 0px;
+        letter-spacing: 0px;
+    }
+    .p-b{
+        text-align: center;
+        padding-bottom:0px;
+    }
+    .f-icon img{
+        padding: 0 0 0 0px;
+    }
+       /* Smart start */
+    .smart{
+        padding: 30px 0 25px;
+    }
+    .s-text h1 {
+        font-size: 26px;
+        line-height: 30px;
+        letter-spacing: 0;
+        text-align: center;
+    }
+    .s-2ndtext p{
+        text-align: center;
+        margin:0;
+    }
+
+    /* Smart end */
+        /* 2nd features start */
+    .f-2{
+        padding: 30px 0 25px;
+    }
+    /* 2nd features end */
+            /* Designe start  */
+    .desing{
+        padding: 30px 0 25px;
+    }
+    .d-text h1 {
+        font-size: 26px;
+        line-height: 30px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    /* Designe end */
+
+            /* onlytext start */
+            .onlytext{
+                padding: 30px 0 10px;
+            }
+            /* onlytext end */
+
+        /* choose start */
+        .choose{
+            padding: 0px 0 35px;
+        }
+        .o-t h1 {
+            font-size: 26px;
+            line-height: 30px;
+        }
+        .c{
+            margin-bottom: 16px;
+        }
+        /* choose end */ 
+         /* Ultimate features start */
+         .u-features{
+            padding: 30px 0 25px;
+         }
+         .uf-text h1 {
+             font-size: 26px;
+             line-height: 30px;
+             margin-bottom: 10px;
+         }
+         .uf-text p{
+            margin-bottom: 20px;
+         }
+         .u-btn {
+             margin-top: -10px;
+         }
+         /* Ultimate features end */
+
+        /* pricing start */
+        .pricing {
+            padding: 30px 0 0px;
+        }
+        .pricing-text h1 {
+            font-size: 26px;
+            line-height: 30px;
+        }
+        .pricing-text p {
+            padding: 0px 0px 10px;
+        }
+        .flip-card-front {
+            padding: 30px 0px;
+        }
+        .price {
+            font-size: 100px;
+     
+        }
+        .flip-card-back {
+            padding: 0px 0px;
+            margin-top: -260px;
+        }
+        .flip-card-front, .flip-card-back {
+            position: inherit;
+        }
+        /* pricing end */
+
+        /* testimonial start  */
+        /* carousel start */
+        .testimonial{
+             padding: 30px 0 30px;
+        }
+        .tes-text h1 {
+            font-size: 26px;
+            line-height: 30px;
+        }
+        /* carousel btn */
+        .c-c-n, .c-c-p{
+            align-items:flex-end;
+        }
+        .c-c-n{
+            left: 200px;
+        }
+        /* carousel end */
+        /* testimonial end  */
+
+    /* questions start */
+      .quetion{
+        padding: 30px 0 25px; 
+      }
+      .q-text{
+        margin-bottom:0;
+      }
+      .q-text h1 {
+          font-size: 26px;
+          margin-bottom: 15px;
+      }
+      .q-text p {
+          padding: 0 0px;
+      }
+      .app-img{
+          margin-bottom: -30px;
+      }
+      .accordion-button {
+          padding: 10px 10px;
+      }
+    /* questions end */
+    /* app start */
+    .app-text h1{
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .app-text p{
+        margin: 10px 0;
+    }
+
+    .app-img{
+        margin-bottom: -15px;
+    }
+    /* btn end */
+    /* app end */
+
+
+
+    /* footer start */
+    footer{
+        padding: 30px 0;
+    }
+    .f-logo, .f-menu, .social-i {
+        margin-bottom: 20px;
+    }
+    .f-menu ul li a {
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    .social-i ul li a{
+        font-size: 26px;
+    }
+    /* footer end */
+
+
+ }
+
+
+ /*small devices (landscape phone, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* header start */
+    .nav-cus{
+        padding: 5px 15px 5px;
+    }
+    .menu ul li a{
+        text-align: right;
+        padding:0 0px;
+    }
+    /* btn start*/
+    .btn-p{
+    text-align: right;
+    padding-left:0px ;
+     }
+    /* btn end*/
+    /* header end */
+        /* banner start */
+    /* banner text start */
+    .banner{
+        padding-top:40px;
+    }
+
+
+    .bt-img {
+      width: 90%;
+    }
+    .bt-img img {
+        padding-top: 1px;
+    }
+    .bt-img h4 {
+        padding: 0px;
+    }
+    .b-text h1 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .b-text p {
+        line-height: 22px;
+        padding: 0;
+    }
+    .b-text a {
+        margin-top: 8px;
+        display: block;
+        margin-left:3px;
+    }
+    /* banner text end */
+    /* banner img  start */
+    .b-img{
+        width:100%;
+        margin-left:0;
+    }
+    /* banner img  end */
+    /* banner end */
+
+     /* companie start */
+     .companie {
+        padding: 40px 0 40px;
+    }
+    .c-margin{
+     margin-top: 30px;
+    }
+  /* companie end */
+
+    /* features start */
+    .features{
+    padding: 40px 0 40px;
+   }
+    .f-img{
+    margin-top:0px;
+  }
+
+    /* 2nd row start*/
+    .f-headtext{
+        text-align: center;
+    padding-bottom: 10px;
+  }
+  .f-headtext h1{
+    padding-bottom:0;
+  }
+  .p-b{
+    text-align: center;
+    padding-bottom: 10px;
+  }
+
+
+    /* 2nd row end */
+    /* features end */
+
+   /* Smart start */
+.smart{
+    padding: 40px 0 40px;
+}
+.s-text h1 {
+    font-size: 33px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+/* Smart end */
+    /* 2nd features start */
+    .f-2{
+        padding: 40px 0 40px;
+    }
+    .f-2 img{
+        margin-bottom: -10px;
+    }
+    /* 2nd features end */
+        /* Designe start  */
+    .desing{
+        padding: 40px 0 40px;
+    }
+    .d-text{}
+    .d-text h1 {
+        line-height: 33px;
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+    .d-text p{
+        margin-bottom: 10px;
+    }
+    /* Designe start  end */
+        /* onlytext start */
+        .onlytext{
+            padding: 40px 0 10px;
+        }
+        /* onlytext end */
+
+    /* choose start */
+    .choose{
+        padding: 0px 0 40px;
+    }
+    .c{
+        margin-bottom: 30px;
+    }
+    /* choose end */ 
+     /* Ultimate features start */
+     .u-features{
+        padding: 40px 0 40px;
+     }
+     .uf-text h1{
+        margin-bottom: 10px;
+     }
+     .uf-text p{
+        margin-bottom: 30px;
+     }
+     .u-btn{
+        margin-top: -10px;
+     }
+     /* Ultimate features end */
+
+    /* pricing start */
+    .pricing {
+        padding: 40px 0 0px;
+    }
+    .flip-card-front {
+        padding: 30px 0px;
+    }
+    .price {
+        font-size: 100px;
+ 
+    }
+    .flip-card-back {
+        padding: 0px 0px;
+        margin-top: -220px;
+    }
+    .flip-card-front, .flip-card-back {
+        position: inherit;
+    }
+    /* pricing end */
+
+    /* testimonial start  */
+    /* carousel start */
+    .testimonial{
+         padding: 40px 0 40px;
+    }
+    /* carousel btn */
+    .c-c-n, .c-c-p{
+        align-items:flex-end;
+    }
+    .c-c-n{
+        left: 390px;
+    }
+    /* carousel end */
+    /* testimonial end  */
+
+/* questions start */
+  .quetion{
+    padding: 40px 0 40px; 
+  }
+  .q-text{
+    margin-bottom: 30px;
+  }
+  .app-img{
+      margin-bottom: -30px;
+  }
+/* questions end */
+
+/* footer start */
+footer{
+    padding: 60px 0;
+}
+.f-logo, .f-menu, .social-i {
+    margin-bottom: 30px;
+}
+/* footer end */
+
+ }
+
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* header start */
+    .nav-cus{
+        padding: 5px 20px 5px;
+    }
+    .menu ul li a{
+        text-align: right;
+        padding:0 0px;
+    }
+/* btn start*/
+    .btn-p{
+    text-align: right;
+    padding-left:0px ;
+     }
+
+/* btn end*/
+    /* header end */ 
+
+    /* banner start */
+    /* banner text start */
+    .banner{
+        padding-top:50px;
+    }
+
+
+    .bt-img {
+      width: 95%;
+    }
+    .b-text h1 {
+        font-size: 38px;
+        line-height: 45px;
+    }
+    .b-text p {
+        line-height: 22px;
+        padding: 5px 0px 5px;
+    }
+    .b-text a {
+        margin-left: 15px;
+    }
+    /* banner text end */
+    /* banner img  start */
+    .b-img{
+        width:100%;
+        margin-left:0;
+    }
+    /* banner img  end */
+    /* banner end */
+
+     /* companie start */
+     .companie {
+        padding: 40px 0 40px;
+    }
+  /* companie end */
+
+    /* features start */
+    .features{
+    padding: 40px 0 40px;
+   }
+
+    /* 2nd row start*/
+    .f-headtext{
+    padding-bottom: 10px;
+  }
+  .f-headtext h1{
+    padding-bottom:0;
+  }
+  .f-img{
+    margin-top: 170px;
+  }
+  .p-b{
+    padding-bottom: 20px;
+  }
+    /* 2nd row end */
+    /* features end */
+    /* Smart start */
+.smart{
+    padding: 40px 0 40px;
+}
+.s-text h1{
+    font-size: 33px;
+    line-height: 40px;
+}
+
+/* Smart end */
+    /* 2nd features start */
+    .f-2{
+        padding: 40px 0 40px;
+    }
+    /* 2nd features end */
+        /* Designe start  */
+    .desing{
+        padding: 40px 0 40px;
+    }
+    /* Designe  end */
+        /* onlytext end */
+        .onlytext{
+            padding: 40px 0 0px;
+        }
+    /* choose start */
+    .choose{
+        padding: 30px 0 50px;
+    }
+    .c{
+        margin-bottom: 40px;
+    }
+    /* choose end */
+    /* Ultimate features start */
+    .u-features{
+        padding: 40px 0 40px;
+    }
+    .u-text h4{
+        font-size: 16px;
+    }
+    /* Ultimate features end */
+    .pricing{
+        padding: 40px 0 280px;
+    }
+
+    /* 2nd row start*/  
+        .price {
+          font-size: 100px;
+        }
+
+        /* Style the front side (fallback if image is missing) */
+        .flip-card-front {
+          padding:30px 0px;
+        }
+    /* 2nd row end */
+    /* pricing end */
+/* testimonial start  */
+.testimonial{
+     padding: 70px 0 40px;
+}
+.c-c-n{
+    left: 230px;
+}
+/* testimonial end  */
+
+/* questions start */
+.quetion{
+    padding: 40px 0 40px; 
+}
+.q-text{
+    margin-bottom: 40px;
+}
+/* questions end */
+
+/* app start */
+.app-text h1{
+    font-size: 38px;
+}
+.app-text p{
+    margin: 20px 0;
+}
+.ic-2 i{
+    font-size: 32px;
+}
+/* app end */
+
+/* footer start */
+footer{
+    padding: 50px 0;
+}
+/* footer end */
+
+
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+
+ 
+ }
+
+ /*X-Large devices (large desktops, 1300px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+
+    
+ }
+
+ /*Extra  extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+
+ }
